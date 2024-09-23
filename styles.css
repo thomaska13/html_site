@@ -79,6 +79,10 @@ h1 {
     color: #4A8182;
 }
 
+.form_text{
+    font-size: 15px;
+}
+
 form div {
     display: flex;
     flex-direction: column;
