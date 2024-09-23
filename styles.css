@@ -69,8 +69,8 @@ h1 {
     display: flex;
     flex-direction: column;
     width: 700px;
-    border: 1px solid;
-    border-radius: 8px;
+    border: 3px solid;
+    border-radius: 10px;
     padding: 0 50px 0 50px;
     background: white;
     margin: 0 auto;
@@ -94,9 +94,9 @@ form button{
     border: none;
     border-radius: 8px;
     color: white; 
-    height: 30px;  
-    width: 200px; 
-    margin-left: 250px;
+    height: 40px;  
+    width: 300px; 
+    margin-left: 210px;
 }
 
 .section2 a button, .section3 a button {
@@ -104,12 +104,12 @@ form button{
     font-weight: 600;
     font-size: 20px; 
     background-color: #4A8182; 
-    border: none;
+    border: none1
     border-radius: 8px;
     color: white; 
 }
 
-form button, .section2 a button:hover, .section3 a button:hover{
+form button:hover, .section2 a button:hover, .section3 a button:hover{
     cursor: pointer;
     transform: scale(1.2);
 }
